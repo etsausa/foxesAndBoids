@@ -1,0 +1,11 @@
+TODO:
+    
+    ENTITY
+    -Metabolism
+        -Energy Expenditure
+
+    FOX:
+    -Attack Behavior
+    
+    
+    BOID:
